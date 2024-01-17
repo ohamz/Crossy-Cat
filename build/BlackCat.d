@@ -1,0 +1,1 @@
+BlackCat.o: BlackCat.s

@@ -1,0 +1,1 @@
+Ambulance.o: Ambulance.s
